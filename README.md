@@ -1,11 +1,17 @@
-<img src="C:\Users\USER\Pictures\random stuff lol\Untitled60_20240130141821.png">
+<img src="C:\Users\USER\Desktop\tailwind css\telo pixel.png">
 
+<div>
+  <a href="https://www.youtube.com/@WedJusticeNoHack">
+    <img src="https://img.shields.io/github/followers/YoCTEggy?style=plastic&logo=youtube&label=YoCTEggy&color=black">
+  </a>
+</div>
 <h1 align="center"> Hello </h1>
 
 <h2>About Me:</h2>
-<p>- test <br>
-  - test <br>
-  - test
+<p>- The name's Wed/Egg.<br>
+  - 16 years old <br>
+  - I'm currently learning about Wed Designing/Programming <br>
+  - 
 </p>
 
 <h1>My Stats:</h1>
