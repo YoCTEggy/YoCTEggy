@@ -1,9 +1,13 @@
-<img src="C:\Users\USER\Desktop\tailwind css\telo pixel.png">
+<div align="center">
+  <img height="300" src="https://github.com/user-attachments/assets/f6f99d36-2890-4269-b1ac-52fdc3318fcc">
+</div>
+
 
 <div align="center">
   <a href="https://www.youtube.com/@WedJusticeNoHack">
     <img src="https://img.shields.io/github/followers/YoCTEggy?style=plastic&logo=youtube&label=YoCTEggy&color=black">
   </a>
+  <a href="">
 </div>
 <h1> Hey there! </h1>
   <p></p>
@@ -11,7 +15,7 @@
 <p>- The name's Wed/Egg.<br>
   - 16 years old <br>
   - I'm currently learning about Wed Designing/Programming <br>
-  - 
+  - Malaysian
 </p>
 
 <h1>My Stats:</h1>
