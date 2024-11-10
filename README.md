@@ -8,4 +8,6 @@
 
 <h1>My Stats:</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoCTEggy&show_icons=true&theme=transparent)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=YoCTEggy&show_icons=true&theme=transparent">
+</div>
