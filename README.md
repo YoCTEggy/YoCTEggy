@@ -1,3 +1,5 @@
+<img src="C:\Users\USER\Pictures\random stuff lol\Untitled60_20240130141821.png">
+
 <h1 align="center"> Hello </h1>
 
 <h2>About Me:</h2>
