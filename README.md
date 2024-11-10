@@ -7,7 +7,8 @@
   <a href="https://www.youtube.com/@WedJusticeNoHack">
     <img src="https://img.shields.io/github/followers/YoCTEggy?style=plastic&logo=youtube&label=YoCTEggy&color=black">
   </a>
-  <a href="">
+  <a href=https://x.com/justicenohack"">
+    <img alt="Twitter" src="https://img.shields.io/github/followers/YoCTEggy?style=for-the-badge&logo=x&logoColor=white&label=YoCTEggy&labelColor=grey&color=black">>
 </div>
 <h1> Hey there! </h1>
   <p></p>
