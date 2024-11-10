@@ -16,21 +16,20 @@
 <br>
 
 <p align="center">
-  Tell you what, here's a quote I found on a booked I read. <br>
+  "The Universe is abundant in all areas; the illusion of fear is the only limitation we have." <br>
+  - Vex King
 </p>
-  "You can’t change your past, but you can choose to make your future a lighter place. Here’s the thing – it’s your responsibility to heal yourself."
 
-<h2>💿 About Me:</h2>
+<h1>💿 About Me 💿</h1>
 <p>- 🐣 The name's Wed/Egg.<br>
   - 🪨 16 years old. <br>
   - ⌨️ I'm currently learning about Wed Designing/Programming. <br>
   - 🇲🇾 Malaysian <br>
   - 💪 Likes to go to the gym during free time. <br>
-  - Trying to do better in life. 
-  You can’t change your past, but you can choose to make your future a lighter place. Here’s the thing – it’s your responsibility to heal yourself.
+  - 🍃 Trying to do better in life. 
 </p>
 
-<h1>My Stats:</h1>
+<h1>🐦‍🔥 My Stats 🐦‍🔥</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YoCTEggy&show_icons=true">
