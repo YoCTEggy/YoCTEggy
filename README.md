@@ -11,7 +11,7 @@
    </div>
       
 <h1>👋🏻 Hey there! 👋🏻 </h1>
-  <p>Welcome to my GitHub Profile. The name's Wed. I'm still learning on how to Web Design, or Programming. I have some experience on HTML, CSS, PHP and also MySQL. I'm just a normal guy trying to do better in life and strive. I love to play games most of the time. For more info, you can check my social media with the social links above.</p>
+  <p>Welcome to my GitHub Profile. The name's Wed. I'm still learning how to do web design and programming. I have some experience in HTML, CSS, PHP, and also MySQL. I'm just a normal guy trying to improve and strive. I love to play games most of the time. For more info, you can check my social media with the social links above.</p>
 
 <br>
 
@@ -23,7 +23,7 @@
 <h1>💿 About Me 💿</h1>
 <p>- 🐣 The name's Wed/Egg.<br>
   - 🪨 16 years old. <br>
-  - ⌨️ I'm currently learning about Wed Designing/Programming. <br>
+  - ⌨️ I'm currently learning about Web Designing/Programming. <br>
   - 🇲🇾 Malaysian <br>
   - 💪 Likes to go to the gym during free time. <br>
   - 🍃 Trying to do better in life. 
